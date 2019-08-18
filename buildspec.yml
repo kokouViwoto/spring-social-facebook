@@ -4,9 +4,9 @@ phases:
   install:
     runtime-versions:
       java: corretto8
-    commands:
-      # Upgrade AWS CLI to the latest version
-      - pip install --upgrade awscli
+#    commands:
+#      # Upgrade AWS CLI to the latest version
+#      - pip install --upgrade awscli
 #  pre_build:
 #    commands:
 #      - mvn clean compile test
