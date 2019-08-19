@@ -23,4 +23,3 @@ artifacts:
   files:
     - 'spring-social-facebook/build/libs/spring-social-facebook-3.0.5.geniqek-SNAPSHOT.jar'
   discard-paths: yes
-
